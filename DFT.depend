@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1699176134 source:i:\projects\coc++\dft\main.cpp
+	<iostream>
+	<cmath>
+	<tgmath.h>
+	<vector>
+	<map>
+	<fstream>
+
